@@ -1,4 +1,6 @@
 
+  
+  {
   "shelf": {
     "blocks": ["product-summary.shelf"],
     "props": {
@@ -27,3 +29,4 @@
       "product-summary-buy-button"
     ]
   }
+}
