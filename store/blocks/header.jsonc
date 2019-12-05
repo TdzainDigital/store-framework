@@ -56,8 +56,7 @@
     
       "header-layout.desktop": {
         "children": [
-          "header-row#notification",
-          "header-row#main"
+          "header-row#notification"
         ]
       },
     
