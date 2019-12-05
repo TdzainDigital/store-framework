@@ -63,7 +63,7 @@
   },
   "stack-layout#brand": {
     "props":{
-      "height": "30px"
+      "height": "30"
     },
     "children": [
       "product-images",
