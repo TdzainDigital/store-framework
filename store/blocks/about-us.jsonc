@@ -82,7 +82,7 @@
           "rich-text#home2"
         ],
         "props": {
-          "tabId": "electronics"
+          "tabId": "electronics" 
         }
       },
       "rich-text#home1": {
