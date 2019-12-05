@@ -62,9 +62,7 @@
     }
   },
   "stack-layout#brand": {
-    "props":{
-      "height": "30"
-    },
+    
     "children": [
       "product-images",
       "product-brand"
@@ -74,6 +72,11 @@
     "props":{
       "initialSelection" : "0"
     } 
+   },
+   "product-brand":{
+    "props":{
+      "height": "30"
+    }
    }
 
 
