@@ -46,6 +46,27 @@
           "text": "**Free Shipping on orders over $50**",
           "textPosition": "CENTER"
         }
+      },
+      "header.full": {
+        "blocks": [
+          "header-layout.desktop",
+          "header-layout.mobile"
+        ]
+      },
+    
+      "header-layout.desktop": {
+        "children": [
+          "header-row#notification",
+          "header-row#main"
+        ]
+      },
+    
+      "header-layout.mobile": {
+        "children": [
+          "header-row#notification",
+          "header-row#main-mobile",
+          "header-row#search"
+        ]
       }
-      
+
 }
