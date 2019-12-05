@@ -26,6 +26,7 @@
       "image#brand4" :{
         "props":{
           "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square4.png"
+        }
       },
       "image#brand5" :{
         "props":{
