@@ -52,21 +52,6 @@
           "header-layout.desktop",
           "header-layout.mobile"
         ]
-      },
-    
-      "header-layout.desktop": {
-        "children": [
-          "header-row#notification",
-          "header-row#main"
-        ]
-      },
-    
-      "header-layout.mobile": {
-        "children": [
-          "header-row#notification",
-          "header-row#main-mobile",
-          "header-row#search"
-        ]
       }
 
 }
