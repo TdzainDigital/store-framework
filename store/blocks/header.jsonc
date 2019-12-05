@@ -6,21 +6,7 @@
           "header-spacer"
         ]
       },
-      "header-row#main-mobile": {
-        "children": [
-          "logo",
-          "header-spacer",
-          "minicart",
-          "login"
-        ],
-      
-        "props": {
-          "sticky": true,
-          "inverted":true,
-          "fullWidth":false
-        }
-      },
-      
+            
       "header-row#search": {
         "children": [
           "search-bar"
@@ -74,6 +60,19 @@
               "sticky " : true,
               "fullWidth ": false
           }
+      },
+      "header-row#main-mobile": {
+        "children": [
+          "logo",
+          "header-spacer",
+          "minicart",
+          "login"
+        ],
+      
+        "props": {
+          "sticky": true,
+          "inverted":true
+        }
       }
 
 }
