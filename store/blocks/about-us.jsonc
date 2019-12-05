@@ -98,6 +98,22 @@
           "textPosition": "CENTER",
           "font": "t-heading-3"
         }
+      },
+      "tab-content.item#1": {
+        "children": [
+          "rich-text#1"
+        ],
+        "props": {
+          "tabId": "majorAppliances"
+        }
+      },
+      "tab-content.item#2": {
+        "children": [
+          "rich-text#2"
+        ],
+        "props": {
+          "tabId": "electronics"
+        }
       }
      
 }
